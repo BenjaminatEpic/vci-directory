@@ -8093,6 +8093,13 @@
                     "country":"US"
                 }
             ]
+        },
+        {
+            "canonical_iss":"https://www.google.com/",
+            "website":"https://www.google.com/",
+            "issuer_type":"organizational.health_system",
+            "locations":[
+            ]
         }
     ]
 }
